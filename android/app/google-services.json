@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "116671616372",
+    "project_id": "splooking3",
+    "storage_bucket": "splooking3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116671616372:android:613c5a0ef65d62dd6ac821",
+        "android_client_info": {
+          "package_name": "com.example.splooking3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116671616372-dbsqulaktt483nlc83okcmrf3blk9o0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3ByIMtor39jKoEb7Wuax-ZLvIOn39hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116671616372-dbsqulaktt483nlc83okcmrf3blk9o0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116671616372-e4m84chu4s9tssrv8a3c9c98st8fvr50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.guchiwo.splooking3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
