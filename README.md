@@ -1,6 +1,6 @@
 # splooking3
 
-A new Flutter project.
+The Mobile Application for looking for matches of splatoon3 multi play.
 
 ## Getting Started
 
